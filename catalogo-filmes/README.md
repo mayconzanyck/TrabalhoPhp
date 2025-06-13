@@ -33,7 +33,7 @@ CREATE TABLE itens (
 3. Configure os dados de conexão no arquivo `includes/conexao.php`
 4. Copie a pasta do projeto para `htdocs/maycon/catalogo-filmes` no XAMPP
 5. Inicie o Apache e o MySQL no painel do XAMPP
-6. Acesse no navegador: [http://localhost/maycon/catalogo-filmes/]
+6. Acesse no navegador: [http://localhost/catalogo-filmes/]
 7. Crie um usuário usando o formulário de cadastro
 
 ✅ **Pronto!**
